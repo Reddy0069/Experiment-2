@@ -1,0 +1,13 @@
+Aim : It learn looping statements by a case study
+Algorithm:
+
+1. START
+2. Store the batting, bowling, and fielding details of four players.
+3. Calculate the **batting rate** and **bowling rate** for each player.
+4. Check the batting performance using runs and batting rate.
+5. Check the bowling performance using wickets and bowling rate.
+6. Check the fielding performance using the number of catches.
+7. Determine the overall performance using the batting and bowling results.
+8. Display the batting rate, bowling rate, batting, bowling, fielding, and overall result for each player.
+9. Repeat the evaluation for all four players.
+10. STOP
